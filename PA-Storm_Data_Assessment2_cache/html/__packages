@@ -1,0 +1,8 @@
+base
+lubridate
+knitr
+ggplot2
+scales
+plyr
+reshape2
+dplyr
